@@ -8,6 +8,12 @@ Some representations of components relations, when integrating React elements do
 
 ## Notes
 
+### How to start a localhost:3000 with node:
+```
+/c/MyProjects/my_react_experimentations/tutorial-intro-to-react (main)
+$ npm start
+```
+
 `components` = isolates pieces of code
 
 ```
