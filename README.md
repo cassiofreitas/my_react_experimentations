@@ -16,7 +16,7 @@ Some representations of components relations, when integrating React elements do
  - components.
 ```
 >React elements
->> const element = <h1>Hello, world!</h1>;
+>> `const element = <h1>Hello, world!</h1>;`
 >> It is called `JSX`, and it is a syntax extension to JavaScript.
 >>`JSX` produces React “elements”. 
 >>React elements are objects.
